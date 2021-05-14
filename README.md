@@ -10,7 +10,7 @@ Level is won when all asteroids are killed for that level.
  
 
 ## Game Rules:
-Arrow Keys to determine spaceship movements, space bar to shoot and escape key to pause/unpause.
+Arrow Keys to determine spaceship movements, Space Bar to shoot and Escape Key to pause/unpause.
 
 ## UML:
 ![title](Asteroids_Game/Asteroids_UML.png)
