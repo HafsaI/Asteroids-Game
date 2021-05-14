@@ -3,9 +3,9 @@
 
 Using C++ & SDL
 ## Description:
-Space Raiders is a space-themed shooter arcade game. The player controls a single spaceship in an asteroid field. The object of the game is to shoot and destroy the asteroids, while not colliding with them. The game becomes harder as the number of asteroids increases. The player controls a space-ship that can rotate left and right, and move forward and backward. Once the ship begins moving in a direction, it will continue in that direction for a time without player intervention unless the player applies thrust in a different direction. Each level starts with a few large asteroids drifting in various directions on the screen. The player can collect the laser bullet power that gives it three laser shoots which increase score by a greater amount than a standard bullet. The player space-ship has 3 lives but can gain extra lives by collecting power-ups that appear on the screen randomly. 
+Asteroids is a space-themed shooter arcade game. The player controls a single spaceship in an asteroid field. The object of the game is to shoot and destroy the asteroids, while not colliding with them. The game becomes harder as the number of asteroids increases. The player controls a space-ship that can rotate left and right, and move forward and backward. Once the ship begins moving in a direction, it will continue in that direction for a time without player intervention unless the player applies thrust in a different direction. Each level starts with a few large asteroids drifting in various directions on the screen. The player can collect the laser bullet power that gives it three laser shoots which increase score by a greater amount than a standard bullet. The player space-ship has 3 lives but can gain extra lives by collecting power-ups that appear on the screen randomly. 
 
-A level is won when all asteroids are killed for that level.
+Level is won when all asteroids are killed for that level.
 
  
 
