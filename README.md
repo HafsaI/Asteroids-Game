@@ -22,7 +22,7 @@ Rub with g++ *.cpp -IC:\mingw_dev_lib\include\SDL2 -LC:\mingw_dev_lib\lib -w -lm
 https://youtu.be/GFxKquY0SwA
 
 **Group Member Names:**
-Aliza Rafique.
+Aliza Rafique,
 Hafsa Irfan,
 Omer,
 Sudais Baig
