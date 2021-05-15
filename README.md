@@ -15,7 +15,7 @@ Arrow Keys to determine spaceship movements, Space Bar to shoot and Escape Key t
 ## UML:
 ![title](Asteroids_Game/Asteroids_UML.png)
 ## How to play:
-Rub with g++ *.cpp -IC:\mingw_dev_lib\include\SDL2 -LC:\mingw_dev_lib\lib -w -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf in the python terminal according to where your files are saved.
+Run with g++ *.cpp -IC:\mingw_dev_lib\include\SDL2 -LC:\mingw_dev_lib\lib -w -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf in the python terminal according to where your files are saved.
 
 **Game Demo Video:**
 https://youtu.be/GFxKquY0SwA
